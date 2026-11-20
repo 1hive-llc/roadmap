@@ -23,6 +23,8 @@ A [Gardens Common Pool](https://app.gardens.fund/gardens/100/0xe2396fe2169ca0269
 
 ## Repository map
 
+[Historical repository index](ARCHIVE.md) lists the archived forks by area.
+
 - [Public organization repositories](https://github.com/orgs/1hive-llc/repositories): public work and historical archives. Archived forks are references, not supported deployments.
 - **Gardens v1:** [protocol](https://github.com/1hive-llc/gardens) and [UI](https://github.com/1hive-llc/gardens-ui).
 - **Celeste:** [contracts](https://github.com/1hive-llc/celeste-contracts) and [dashboard](https://github.com/1hive-llc/celeste-dashboard).
